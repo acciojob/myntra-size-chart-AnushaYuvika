@@ -1,2 +1,28 @@
 
 /* Your CSS Code here. */
+table {
+	width: 100%;
+	border: 1px solid black;
+}
+
+td,th {
+	border: 1px solid black;
+}
+th {
+	text-align: left;
+}
+td {
+	text-align: right;
+}
+
+.first {
+	text-align: left;
+}
+th {
+	background-color: brown;
+}
+td {
+	background-color: orange;
+}
+
+
