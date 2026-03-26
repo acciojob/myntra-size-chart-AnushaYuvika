@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-table {
+/* table {
 	width: 100%;
 	border: 1px solid black;
 }
@@ -23,6 +23,38 @@ th {
 }
 td {
 	background-color: orange;
+} */
+
+table {
+	width: 100%;
+	border: 1px solid black;
 }
 
+th, td {
+	border: 1px solid black;
+	text-align: left;
+}
 
+td {
+	text-align: right;
+}
+
+.heading {
+	text-align: left;
+}
+
+.first {
+	background-color: coral;
+}
+
+.sec {
+	background-color: orange;
+}
+
+.third {
+	background-color: lightcoral;
+}
+
+.fourth {
+	background-color: lightcyan;
+}
